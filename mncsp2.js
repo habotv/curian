@@ -1,4 +1,3 @@
-
 const youtube_theme_manifestUri = 'https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd';
 async function init() {
   const video = document.getElementById('youtube-theme');
